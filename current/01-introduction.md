@@ -24,6 +24,6 @@ Term | Meaning
 ---
 
 <p align="center">
-<strong><a href="./01-lexical-conventions.md">Next ></a></strong><br>
+<strong><a href="./02-lexical-conventions.md">Next ></a></strong><br>
 <strong><a href="./00-contents.md">Contents</a></strong>
 </p>
