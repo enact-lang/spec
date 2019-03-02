@@ -5,7 +5,7 @@
 
 <br/>
 
-## Table of Contents
+# Table of Contents
 1. [Introduction](./01-introduction.md)
 2. [Lexical elements](./02-lexical-elements.md)
 3. [Program structure](./03-program-structure.md)
