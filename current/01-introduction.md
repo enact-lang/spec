@@ -11,7 +11,7 @@ JavaScript. It blends multiple paradigms instead of supporting multiple paradigm
 functional worlds.
 
 ## Purpose of this document
-This document exists to describe the Enact programming language's syntax, semantics and features in enough detail that an
+This document exists to describe the Enact programming language's syntax, semantics and features in enough detail that two separate
 implementations of the language could be written without excessive ambiguity and incompatibility.
 
 ## Terminology
